@@ -10,7 +10,7 @@ function App() {
         <img
           src={logo}
           className="App-logo"
-          alt="Propeller Aero"
+          alt="Propeller Aero Logo"
         />
 
         <a
